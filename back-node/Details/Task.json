@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "name": "Make a wish",
+        "description": "make the super wish",
+        "date": "1/12/2022",
+        "tag": "wish",
+        "status": false
+    },
+   {
+        "_id": 2,
+        "name": "Max",
+        "description": "make max",
+        "date": "10/02/2022",
+        "tag": "max",
+        "status": true
+    },
+    {
+        "_id": 3,
+        "name": "buy alcohol",
+        "description": "buy alcohol",
+        "date": "1/01/2022",
+        "tag": "party",
+        "status": false
+    }
+]
